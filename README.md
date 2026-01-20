@@ -60,3 +60,14 @@ npm run dev
 - Click Copy to copy output to clipboard
 
 ---
+
+## Contributing
+Contributions are welcome!
+
+ - Fork the repo
+ - Create a feature branch (eg. feat/your-feature-name)
+ - Commit changes
+ - Open a Pull Request
+   
+---
+
