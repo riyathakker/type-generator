@@ -31,3 +31,32 @@ A lightweight React application that converts raw JSON into TypeScript interface
 
 ```bash
 git clone https://github.com/riyathakker/type-generator.git
+```
+
+### 2. Navigate to project folder
+
+```bash
+cd type-generator
+```
+
+### 3. Install dependencies
+```bash
+npm install
+```
+
+### 4. Start development server
+
+```bash
+npm run dev
+```
+---
+
+## Usage
+
+- Paste your JSON in the JSON Input field
+- Enter the desired Type/Interface Name
+- Select output style
+- Click Generate
+- Click Copy to copy output to clipboard
+
+---
